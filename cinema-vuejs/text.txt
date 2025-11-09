@@ -1,0 +1,7 @@
+Đồ án Full stack vuejs
+Cài đặt dự án vuejs
+- Vue Router (SPA development)
+- Pinia (state management)
+- ESLint (error prevention)
+- Prettier (code formatting)
+- daisyUI + Tailwind CSS
