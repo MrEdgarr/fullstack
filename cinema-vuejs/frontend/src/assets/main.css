@@ -3,4 +3,7 @@
 @import 'tailwindcss';
 @plugin "daisyui";
 
+/* Import Swiper styles */
+@import 'swiper/css';
+
 @import './base.css';

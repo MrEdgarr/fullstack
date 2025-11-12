@@ -5,3 +5,6 @@ Cài đặt dự án vuejs
 - ESLint (error prevention)
 - Prettier (code formatting)
 - daisyUI + Tailwind CSS
+- iconify design
+- Swiperjs
+- Sass/Scss

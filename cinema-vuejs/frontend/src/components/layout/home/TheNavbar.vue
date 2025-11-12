@@ -1,9 +1,9 @@
 <template>
-    <header class="bg-base-100 shadow-sm">
-        <div class="navbar container m-auto">
+    <header>
+        <div class="navbar container">
             <div class="navbar-start">
                 <!-- Logo -->
-                <div class="text-2xl font-medium tracking-widest">CINE</div>
+                <div class="text-lg md:text-2xl font-semibold tracking-widest">𝘾𝓲𝓷𝓮𝙈𝓪𝔁</div>
             </div>
             <div class="navbar-center hidden lg:flex">
                 <ul class="menu menu-horizontal px-1">
@@ -51,7 +51,7 @@
                     </div>
                     <ul
                         tabindex="0"
-                        class="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-72 p-2 shadow"
+                        class="menu menu-sm dropdown-content bg-base-100 rounded-box z-90 mt-3 w-72 p-2 shadow"
                     >
                         <li><button class="btn rounded-4xl mb-5">Đăng nhập</button></li>
                         <li v-for="value in MAIN_NAVIGATION" :key="value.name">
